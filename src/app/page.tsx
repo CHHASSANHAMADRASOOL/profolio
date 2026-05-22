@@ -27,7 +27,7 @@ export default function Home() {
 
         {/* VIP Name & Title */}
         <h1 className="text-5xl md:text-7xl font-black mb-4 tracking-tight">
-           CH HASSAN <span className="text-transparent bg-clip-text bg-gradient-to-r from-blue-400 to-purple-400">HAMAD RASOOL</span>
+            HASSAN <span className="text-transparent bg-clip-text bg-gradient-to-r from-blue-400 to-purple-400">HAMAD RASOOL</span>
         </h1>
         
         <div className="inline-flex items-center gap-2 px-6 py-2 bg-blue-500/10 border border-blue-500/20 rounded-full text-blue-300 font-mono text-sm mb-8">

@@ -7,6 +7,7 @@ export default function Navbar() {
     { name: "Home", href: "/" },
     { name: "About", href: "/about" },
     { name: "SkILLS", href: "/skill" },
+    {name: "Projects", href: "/project2" },
     { name: "Services", href: "/Services" },
     { name: "Testimonials", href: "/Testimonials" },
     { name: "Contact", href: "/contact" },
